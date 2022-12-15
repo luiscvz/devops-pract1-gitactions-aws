@@ -1,4 +1,4 @@
-name: CICD MundoE
+name: CICD DevOps
 
 on:
   push:
